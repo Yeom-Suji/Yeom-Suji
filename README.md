@@ -2,6 +2,7 @@
 
 ## _Always finds out the significant keys, Data Analyst_
 The famous quote of Steve Jobs always keeps me motivated to study data analysis.
+<br/>
 
 > You can’t connect the dots looking forward; <br/>
 > you can only connect them looking backwards. <br/> 
