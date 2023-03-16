@@ -3,18 +3,20 @@
 ## _Always finds out the significant keys, Data Analyst_
 The famous quote of Steve Jobs always keep me motivated.
 
-> You can’t connect the dots looking forward;
-> you can only connect them looking backwards. 
-> So you have to trust that the dots 
-> will somehow connect in your future.
-> Steve Jobs, Stanford Commencement Speech 2005.
+> You can’t connect the dots looking forward; <br/>
+> you can only connect them looking backwards. <br/> 
+> So you have to trust that the dots <br/>
+> will somehow connect in your future.<br/>
+> <br/>
+> Steve Jobs, Stanford Commencement Speech 2005.<br/>
 
-"연결점은 미래에서 찾을 수 없다 - 오직 과거에서만 찾을 수 있는 것이다. 그러니 과거의 연결점들이 미래에 연결 될 것이라는 확신을 가져야 한다."
+"연결점은 미래에서 찾을 수 없다 - 오직 과거에서만 찾을 수 있는 것이다. <br/> 그러니 과거의 연결점들이 미래에 연결 될 것이라는 확신을 가져야 한다."
 
 안녕하세요-! 항상 정답을 찾아내는 데이터 분석가 ✨염수지✨입니다.
 
-
-
+<br/>
+<br/>
+<br/>
 
 ## SNS List
 
