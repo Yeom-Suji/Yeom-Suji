@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Suji%20Yeom&fontSize=80&animation=twinkling)
 
 ## _Always finds out the significant keys, Data Analyst_
-The famous quote of Steve Jobs always keep me motivated.
+The famous quote of Steve Jobs always keeps me motivated.
 
 > You can’t connect the dots looking forward; <br/>
 > you can only connect them looking backwards. <br/> 
