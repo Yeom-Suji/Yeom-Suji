@@ -34,9 +34,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
  <a href="https://www.instagram.com/yeom_suji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 ## Tech Stack⚡
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
 <!--
 **Yeom-Suji/Yeom-Suji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
