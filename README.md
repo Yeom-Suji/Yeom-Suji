@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Suji%20Yeom&fontSize=80&animation=twinkling)
 
-## _Always finds out the significant keys, Data Analyst_
+## _Always finds out the significant keys, Data Analyst_ 📈
 The famous quote of Steve Jobs always keeps me motivated to study data analysis.
 <br/>
 <br/>
@@ -34,7 +34,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 <br/>
 <br/>
 
-## I'm currently learning🌱
+## Currently learning..🌱
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
 
 
@@ -51,7 +51,17 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 
 <br/>
 
-## SNS List 💬
+## Certificate🏆
+<br/>
+<br/>
+<br/>
+
+## Language Qualification💬 
+<br/>
+<br/>
+<br/>
+
+## SNS List💌 
 
  <a href="https://www.youtube.com/@user-ll6qk2tc6f" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
  
