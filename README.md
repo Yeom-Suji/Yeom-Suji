@@ -25,6 +25,32 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 <br/>
 <br/>
 
+## Education📚
+- Daewon Foreign Language Highschool 2016-2019<br/>
+&nbsp;&nbsp;&nbsp;German
+
+- Hankuk University of Foreign Studies 2020-<br/>
+&nbsp;&nbsp;&nbsp;Persian & Iranian Studies, Department of AI (Business & AI)
+<br/>
+<br/>
+
+## I'm currently learning🌱
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
+
+
+<br/>
+
+## Tech Stack⚡
+- Used as the main<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=Google&logoColor=white"><br/>
+
+- Used at least once<br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=for-the-badge&logo=Google&logoColor=white"><br/>
+
+&nbsp;
+
+<br/>
+
 ## SNS List 💬
 
  <a href="https://www.youtube.com/@user-ll6qk2tc6f" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
@@ -33,20 +59,21 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
  
  <a href="https://www.instagram.com/yeom_suji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-## Tech Stack⚡
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+<a href="https://www.linkedin.com/in/%EC%88%98%EC%A7%80-%EC%97%BC-43a7a924b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
+
+
 
 <!--
 **Yeom-Suji/Yeom-Suji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about ....
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
