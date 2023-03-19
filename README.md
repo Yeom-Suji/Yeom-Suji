@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Suji%20Yeom&fontSize=80&animation=twinkling)
 
 ## _Always finds out the significant keys, Data Analyst_ 📈
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeom-Suji&count_bg=%23D591B1&title_bg=%23888383&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 The famous quote of Steve Jobs always keeps me motivated to study data analysis.
 <br/>
 <br/>
