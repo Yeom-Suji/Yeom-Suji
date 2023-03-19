@@ -75,8 +75,15 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 
 <a href="https://www.linkedin.com/in/%EC%88%98%EC%A7%80-%EC%97%BC-43a7a924b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yeom-Suji/Yeom-Suji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
