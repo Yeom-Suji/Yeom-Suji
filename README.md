@@ -29,15 +29,6 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 <br/>
 <br/>
 
-## Education📚
-- Daewon Foreign Language Highschool 2016-2019<br/>
-&nbsp;&nbsp;&nbsp;German
-
-- Hankuk University of Foreign Studies 2020-<br/>
-&nbsp;&nbsp;&nbsp;Persian & Iranian Studies, Department of AI (Business & AI)
-<br/>
-<br/>
-
 ## Currently learning..🌱
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft&logoColor=white">
 
@@ -55,12 +46,27 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 
 <br/>
 
-## Certificate🏆
+## Education📚
+- Daewon Foreign Language Highschool 2016-2019<br/>
+&nbsp;&nbsp;&nbsp;German
+
+- Hankuk University of Foreign Studies 2020-<br/>
+&nbsp;&nbsp;&nbsp;Persian & Iranian Studies, Department of AI (Business & AI)
+<br/>
+<br/>
+
+
+
+## Language Qualification💬 
+<img src="https://img.shields.io/badge/English-Proficiency-E74C3C"> <img src="https://img.shields.io/badge/German-Intermediate-EC7063"> <img src="https://img.shields.io/badge/Persian-Pre&nbsp;Intermediate-F1948A"> <img src="https://img.shields.io/badge/Dari-Pre&nbsp;Intermediate-F1948A"> <img src="https://img.shields.io/badge/Korean-Mother&nbsp;Tounge-78281F">
 <br/>
 <br/>
 <br/>
 
-## Language Qualification💬 
+## Certificate🏆
+- Google Analytics Individual Qualification (GAIQ)
+- Google Analytics Certification (GA4)
+- Advanced Data Analytics Semi-Professional (ADsP)
 <br/>
 <br/>
 <br/>
@@ -83,7 +89,6 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 <br/>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Yeom-Suji/seoul_publicdata)
 
 <!--
 **Yeom-Suji/Yeom-Suji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
