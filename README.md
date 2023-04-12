@@ -30,20 +30,20 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 <br/>
 
 ## Currently learning..🌱
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
 
 
 <br/>
 
 ## Tech Stack⚡
 - Used as the main<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Excel&nbsp;VBA-217346?style=for-the-badge&logo=Microsoft&logoColor=white">  <img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=Google&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Excel&nbsp;VBA-217346?style=for-the-badge&logo=Microsoft&logoColor=white">  <img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=Google&logoColor=white"> <br/>
 
 - Used at least once<br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <br/>
 
 &nbsp;
-
+powerbi
 <br/>
 
 ## Education📚
