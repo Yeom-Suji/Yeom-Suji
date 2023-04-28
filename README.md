@@ -20,27 +20,29 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’l
 <br/>
 <br/>
 
-안녕하세요-! 항상 정답을 찾아내는 데이터 분석가 ✨염수지✨입니다.
+안녕하세요-! 항상 정답을 향해가는 데이터 분석가 ✨염수지✨입니다.
 
 "연결점은 미래에서 찾을 수 없다. 오직 과거에서만 찾을 수 있는 것이다. <br/> 그러니 과거의 연결점들이 미래에 연결 될 것이라는 확신을 가져야 한다."<br/>
 
 위 스티브 잡스의 연설은 제가 데이터 분석을 공부하게 된 이유이자 앞으로 추구하고자 하는 목표입니다.
+
+과거 지표들을 모아 연결하여 추세선을 긋고, 현재의 질문에 대한 정답을 예측하고 싶습니다.
 <br/>
 <br/>
 <br/>
 
 ## Currently learning..🌱
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/UI Path-EC1C24?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
 <br/>
 
 <br/>
 
 ## Tech Stack⚡
 - Used as the main<br/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Excel&nbsp;VBA-217346?style=for-the-badge&logo=Microsoft&logoColor=white">  <img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=Google&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Excel&nbsp;VBA-217346?style=for-the-badge&logo=Microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=Google&logoColor=white">  <br/>
 
 - Used at least once<br/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/UI Path-EC1C24?style=for-the-badge"> <br/>
 
 &nbsp;
 
