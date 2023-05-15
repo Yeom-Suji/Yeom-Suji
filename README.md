@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Suji%20Yeom&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Suji%20Yeom&fontSize=80&animation=twinkling)
 
 ## _Always finds out the significant keys, Data Analyst_ 📈
 
