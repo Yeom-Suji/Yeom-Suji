@@ -15,7 +15,7 @@ The famous quote of Steve Jobs always keeps me motivated to study data analysis.
 > <br/>
 > Steve Jobs, Stanford Commencement Speech 2005.<br/>
 
-THIS is the reason why I study data analysis and THIS is the ultimate goal I’ll pursue.
+THIS is the reason why I study data analysis and THIS is the ultimate goal I’m pursuing.
 <br/>
 <br/>
 <br/>
