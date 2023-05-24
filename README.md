@@ -55,7 +55,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 - Hankuk University of Foreign Studies 2020-<br/>
 &nbsp;&nbsp;&nbsp;Persian & Iranian Studies, Department of AI (Business & AI)
 
-- K-DT 빅데이터 기반 비즈니스 분석가 양성과정 2기 2023.03-2023.05
+- K-DT 빅데이터 기반 비즈니스 분석가 양성과정 2기 [[수료증](https://github.com/Yeom-Suji/Marketing-Related/blob/main/K-DT%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%9B%88%EB%A0%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%B6%84%EC%84%9D%EA%B0%80%20%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95%202%EA%B8%B0%20%EC%88%98%EB%A3%8C%EC%A6%9D_%EC%97%BC%EC%88%98%EC%A7%80.pdf)]
 <br/>
 <br/>
 
