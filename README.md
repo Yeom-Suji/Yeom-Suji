@@ -71,6 +71,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 - Google Analytics Individual Qualification (GAIQ)
 - Google Analytics Certification (GA4)
 - Advanced Data Analytics Semi-Professional (ADsP)
+- SQL Developer (SQLD)
 <br/>
 <br/>
 <br/>
