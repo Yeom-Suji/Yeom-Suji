@@ -20,7 +20,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 <br/>
 <br/>
 
-안녕하세요-! 항상 정답을 향해가는 데이터 분석가 ✨염수지✨입니다.
+안녕하세요-! 항상 정답을 향해가는 데이터 분석가가 되고싶은 ✨염수지✨입니다.
 
 "연결점은 미래에서 찾을 수 없다. 오직 과거에서만 찾을 수 있는 것이다. <br/> 그러니 과거의 연결점들이 미래에 연결 될 것이라는 확신을 가져야 한다."<br/>
 
