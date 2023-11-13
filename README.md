@@ -59,7 +59,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 
 - BDA(Big Data Analysis) 학회 7기 2023-
 
-- NAVER CONNECT FOUNFATION BOOSTCOURSE DATA SCIENCE COACHING STUDY : 2023 [[수료증](https://github.com/Yeom-Suji/Python/blob/main/certificate_A20231110-262869.pdf)]
+- NAVER CONNECT FOUNDATION BOOSTCOURSE DATA SCIENCE COACHING STUDY : 2023 [[수료증](https://github.com/Yeom-Suji/Python/blob/main/certificate_A20231110-262869.pdf)]
 <br/>
 <br/>
 
