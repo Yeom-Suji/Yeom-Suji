@@ -59,14 +59,14 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 
 - BDA(Big Data Analysis) 학회 7기 2023-
 
-- BOOSTCOURSE DATA SCIENCE COACHING STUDY : 2023 [[수료증](https://github.com/Yeom-Suji/Python/blob/main/certificate_A20231110-262869.pdf)]
+- NAVER CONNECTS BOOSTCOURSE DATA SCIENCE COACHING STUDY : 2023 [[수료증](https://github.com/Yeom-Suji/Python/blob/main/certificate_A20231110-262869.pdf)]
 <br/>
 <br/>
 
 
 
 ## Language Qualification💬 
-<img src="https://img.shields.io/badge/English-Proficiency-E74C3C"> <img src="https://img.shields.io/badge/German-Intermediate-EC7063"> <img src="https://img.shields.io/badge/Persian-Pre&nbsp;Intermediate-F1948A"> <img src="https://img.shields.io/badge/Dari-Pre&nbsp;Intermediate-F1948A"> <img src="https://img.shields.io/badge/Korean-Mother&nbsp;Tounge-78281F">
+<img src="https://img.shields.io/badge/English-Expert-E74C3C"> <img src="https://img.shields.io/badge/German-Intermediate-EC7063"> <img src="https://img.shields.io/badge/Persian-Pre&nbsp;Intermediate-F1948A"> <img src="https://img.shields.io/badge/Dari-Pre&nbsp;Intermediate-F1948A"> <img src="https://img.shields.io/badge/Korean-Mother&nbsp;Tounge-78281F">
 <br/>
 <br/>
 <br/>
