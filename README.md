@@ -31,6 +31,14 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 <br/>
 <br/>
 
+
+## Experience ⚔
+- KPMG Korea 삼정회계법인 Data Engineer Intern 2024-<br/>
+<br/>
+<br/>
+
+
+
 ## Currently learning..🌱
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
 <br/>
