@@ -96,7 +96,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
  
  <a href="https://www.instagram.com/yeom_suji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/%EC%88%98%EC%A7%80-%EC%97%BC-43a7a924b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="www.linkedin.com/in/수지-염-606413281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <br/>
 <br/>
 E-MAIL: sujiyeom2000@gmail.com
