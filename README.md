@@ -32,6 +32,14 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 <br/>
 
 
+제 노션에도 놀러와주세요 >_< 아래 노션 버튼 클릭클릭! <br/>
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://www.notion.so/Suji-s-Data-Portfolio-1153d29c9018463dba4f541ff1d5a03f?pvs=4)
+
+<br/>
+<br/>
+
+
+
 ## Experience ⚔
 - KPMG Korea 삼정회계법인 Data Engineer Intern 2024-<br/>
 <br/>
@@ -40,7 +48,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 
 
 ## Currently learning..🌱
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
+UltraEdit
 <br/>
 
 <br/>
@@ -48,9 +56,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 ## Tech Stack⚡
 - Used as the main<br/>
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://github.com/Yeom-Suji/Tableau) [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">](https://github.com/Yeom-Suji/PythonData)  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> [<img src="https://img.shields.io/badge/Excel&nbsp;VBA-217346?style=for-the-badge&logo=Microsoft&logoColor=white">](https://github.com/Yeom-Suji/Excel-VBA) <img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=Google&logoColor=white">  <br/>
-
-- Used at least once<br/>
-<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/UI Path-EC1C24?style=for-the-badge"> <br/>
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Google&nbsp;Colab-F9AB00?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/UI Path-EC1C24?style=for-the-badge"> <br/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
 
 &nbsp;
 
@@ -90,6 +96,8 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 
 ## SNS List💌 
 
+ <a href="https://www.notion.so/Suji-s-Data-Portfolio-1153d29c9018463dba4f541ff1d5a03f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
  <a href="https://www.youtube.com/@user-ll6qk2tc6f" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
  
  <a href="https://blog.naver.com/sujilove001" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
@@ -101,6 +109,10 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 <br/>
 <br/>
 E-MAIL: sujiyeom2000@gmail.com
+
+
+
+
 
 <br/>
 <br/>
