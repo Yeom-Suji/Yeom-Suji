@@ -37,8 +37,10 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 
 <br/>
 <br/>
+요 [프로젝트](https://github.com/Yeom-Suji/Python/blob/main/CNN%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%BA%A1%EC%B1%A0%20%EB%9A%AB%EA%B8%B0.pdf) 한 번 구경해 보실래요?ㅎㅎㅎㅎ
 
-
+<br/>
+<br/>
 
 ## Experience ⚔
 - KPMG Korea 삼정회계법인 Data Engineer Intern 2024-<br/>
