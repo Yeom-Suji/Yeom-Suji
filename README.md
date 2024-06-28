@@ -38,7 +38,7 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 <br/>
 <br/>
 요 프로젝트 한 번 구경해 보실래요?ㅎㅎㅎㅎ
-https://github.com/YeomSuji/Python/blob/main/CNN%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%BA%A1%EC%B1%A0%20%EB%9A%AB%EA%B8%B0.pdf
+[CNN프로젝트 캡챠 뚫기.pdf](https://github.com/Yeom-Suji/Python/blob/main/CNN%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%BA%A1%EC%B1%A0%20%EB%9A%AB%EA%B8%B0.pdf)
 
 
 
