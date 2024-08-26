@@ -43,8 +43,10 @@ THIS is the reason why I study data analysis and THIS is the ultimate goal I’m
 
 <br/>
 <br/>
+
 ## Experience ⚔
-- KPMG Korea 삼정회계법인 Data Engineer Intern 2024-<br/>
+- Fubon Hyundai Life Insurance Corp. 푸본현대생명 Product Development & Risk Analysis 2024-<br/>
+- KPMG Korea 삼정회계법인 Data Engineer Internship 2024-<br/>
 <br/>
 <br/>
 
